@@ -1,0 +1,2 @@
+/usr/bin/ar qc libService.a CMakeFiles/Service.dir/src/libService.cpp.o
+/usr/bin/ranlib libService.a

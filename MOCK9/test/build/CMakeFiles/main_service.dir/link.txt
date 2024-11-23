@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_service.dir/main_service.cpp.o -o main_service  ../../lib/build/libService.a -lrt 

@@ -1,0 +1,6 @@
+/home/luonghauhoa/Git/MOCK9/test/build/CMakeFiles/main_service.dir
+/home/luonghauhoa/Git/MOCK9/test/build/CMakeFiles/main_temperature_app.dir
+/home/luonghauhoa/Git/MOCK9/test/build/CMakeFiles/main_volume_app.dir
+/home/luonghauhoa/Git/MOCK9/test/build/CMakeFiles/main_volume_app2.dir
+/home/luonghauhoa/Git/MOCK9/test/build/CMakeFiles/edit_cache.dir
+/home/luonghauhoa/Git/MOCK9/test/build/CMakeFiles/rebuild_cache.dir
